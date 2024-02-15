@@ -1,12 +1,13 @@
-CLI CALCULATOR PROJECT 
+# CLI CALCULATOR PROJECT 
+    Welcome to my CLI Calculator Project created using
+    typescript.
 
-Description:
-    The CLI Calculator is a simple command-line tool built using TypeScript that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a convenient way to perform calculations directly from the terminal without the need for a graphical user interface.
+## Key Features:
 
-Key Features:
-    1.Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division operations.
+- Basic Arithmetic Operations
+- User-Friendly Interface
 
-    2.User-Friendly Interface: Utilizes a simple and intuitive command-line interface for input and output.
+## Usage:
+Install the calculator globally: npm i anoma-calc-task
 
-Technologies Used:
-    TypeScript: Provides strong typing and modern features for developing scalable and maintainable applications.
+Run the calculator: npx anoma-calc-task
