@@ -8,11 +8,11 @@
 - User-Friendly Interface
 
 ## 🔗 Dependencies:
-~ [Chalk](https://www.npmjs.com/package/chalk)
+~ Chalk
 
-~ [Inquirer](https://www.npmjs.com/package/inquirer)
+~ Inquirer
 
-~ [Chalk Animation](https://www.npmjs.com/package/chalk-animation)
+~ Chalk Animation
 
 ## Usage:
 Install the calculator globally: npm i anoma-calc-task
