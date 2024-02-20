@@ -1,5 +1,5 @@
 
-# Todo App 
+# Todo List App 
     This is a command-line Todo application built with
     TypeScript, Node.js, and Inquirer. 
     It allows users to manage their todo list by   
